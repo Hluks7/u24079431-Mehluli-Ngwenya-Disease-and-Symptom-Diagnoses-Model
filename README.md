@@ -71,7 +71,7 @@ pip install -r requirements.txt
 - **Precision and Recall**: 1.00
 
 ### Visualizations:
-![Training and Test Set Class Distributions](Data_Distribution.png)
+![Training and Test Set Class Distributions](Data Distribution.png)
 
 The above figure illustrates a balanced class distribution, ensuring the model generalizes well across various diseases.
 
