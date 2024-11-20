@@ -37,24 +37,21 @@ pip install -r requirements.txt
 ## Setup
 1. **Clone the repository**:
    ```bash
-   git clone <repository_link>
-   cd <repository_folder>
+   git clone : https://github.com/Hluks7/u24079431-Mehluli-Ngwenya-Disease-and-Symptom-Diagnoses-Model.git
+   
    ```
 
 2. **Run the model**:
    To make a prediction, run the following:
    ```bash
-   python diagnosis_model.py
+   python 'logistic_regression_model.joblib'
    ```
 
 3. **User Input**:
    Enter symptoms as a list (e.g., `['fever', 'cough']`), and the script will return the predicted disease.
 
-4. **Model Training** (if needed):
-   Use the `train_model.py` script to retrain the model:
-   ```bash
-   python train_model.py
-   ```
+
+   
 
 ## Usage
 ### Example Prediction
